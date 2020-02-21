@@ -66,4 +66,6 @@ user_groups:
 - Researchers
 ---
 
-Welcome to my homepage. 
+Welcome to my homepage! I am a first-year Ph.D. student at UCLA. I am advised by Dr. [Mathieu Bauchy](http://mathieu.bauchy.com/) at [PARISLab](http://www.lab-paris.com/). My research interets include data-driven material analysis and machine/deep learning applications in material science.    
+I was born in Tianjin, China and then moved to Bay Area, California with my family in 2012. After completing my school at De Anza College, I transferred to UCLA majoring in Computer Science. I got my B.S. Degree in June 2019 and then went directly to my current Ph.D. program.    
+Besides doing research and coding, I also love sports, traveling and food. Right now, I am living with my perfect wife in Glendale, California. 
