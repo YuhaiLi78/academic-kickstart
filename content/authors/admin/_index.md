@@ -34,7 +34,7 @@ education:
     institution: University of Illinois Urbana-Champaign
     year: 2021 (Expected)
   - course: B.S. in Compuster Science
-    institution: Massachusetts Institute of Technology
+    institution: University of California, Los Angeles
     year: 2019
 
 # Social/Academic Networking
