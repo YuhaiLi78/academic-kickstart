@@ -27,7 +27,7 @@ subtitle = ""
   # description = "90%"
 
 [[feature]]
-  icon = "lap-top"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Software Development"
   # description = "80%"
