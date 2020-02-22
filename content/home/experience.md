@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Software Engineer Intern"
+  company = "Amazon"
+  company_url = ""
+  location = "Seattle, Washinton"
+  date_start = "2020-06-22"
+  date_end = "2020-09-12"
+  description = """Coming soon"""
+  
+[[experience]]
+  title = "Machine Learning Research Assistant"
+  company = "University of California, Los Angeles"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2018-04-01"
+  date_end = "2019-06-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Built regression models (gradient descent boosting tree, artificial neural network) to extrapolate physical properties of concrete based on the empirical data (~ 10,000 observations from industry) and reduced the absolute mean percentage error of the prediction to ~9% which is the experimental uncertainty
+  * Wrote a paper as the second author for ACI Materials Journal’s Special Edition on Computational Modeling
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineer Intern"
+  company = "University of California, Los Angeles"
   company_url = ""
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2017-06-01"
+  date_end = "2018-01-01"
+  description = """
+  * Wrote product requirement document through communication with users (biology major students) about their research needs and concerns
+  * Designed and implemented a Python program which detected, eliminated and merged redundant DNA records in Chip-Seq relational database system 
+  * Replaced the manual screening process on empirical data and increased productivity in the lab from manually scanning 200 records per day to automatically scanning 200 records per second.
+
+  
+  """
 
 +++
