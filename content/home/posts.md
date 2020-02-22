@@ -25,8 +25,8 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Other"
-    category = "post"
+    tag = ""
+    category = ""
     publication_type = ""
     exclude_featured = false
   
