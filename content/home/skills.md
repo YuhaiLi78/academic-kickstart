@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
   
 [[feature]]
-  icon = "Java"
+  icon = "java"
   icon_pack = "fas"
   name = "Java"
   # description = "100%"  
@@ -42,4 +42,9 @@ subtitle = ""
   icon = "network-wired"
   icon_pack = "fas"
   name = "Deep Learning"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Database"
 +++
