@@ -10,5 +10,5 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header: Hello World
   caption: "First post"
-  image: ""
+  image: "maxresdefault.jpg"
 ---
