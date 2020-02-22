@@ -8,7 +8,7 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header: Hello World
-  caption: "First post"
-  image: "maxresdefault.jpg"
+header: 
+  caption: ""
+  image: ""
 ---
