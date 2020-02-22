@@ -12,7 +12,4 @@ header:
   caption: ""
   image: ""
 
-header: "HelloWorld"
-  caption: ""
-  image: "maxresdefault.jpg"
 ---
