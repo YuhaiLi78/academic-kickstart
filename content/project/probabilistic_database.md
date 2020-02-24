@@ -6,6 +6,6 @@ external_link: "https://github.com/BarrettLi/Probabilistic-Database"
 
 header:
     caption: ""
-    image: "probabilistic_banner.jpg"
+    image: "static/img/probabilistic_banner.jpg"
 ---
 
