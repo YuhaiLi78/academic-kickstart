@@ -31,7 +31,7 @@ education:
     institution: University of California, Los Angeles
     year: 2024 (Expected)
   - course: M.S. in Computer Science
-    institution: University of Illinois Urbana-Champaign
+    institution: University of Illinois, Urbana-Champaign
     year: 2021 (Expected)
   - course: B.S. in Compuster Science
     institution: University of California, Los Angeles

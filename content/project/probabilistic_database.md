@@ -1,10 +1,10 @@
 ---
 title: "Probabilistic Database"
+summary: [Link to source code](https://github.com/BarrettLi/Probabilistic-Database)
 date: 2020-02-24T11:31:29-08:00
 draft: false
 tag: ["database", "Artificial Intelligence"]
 ---
-[Link to source code](https://github.com/BarrettLi/Probabilistic-Database)
 
 * Built parser that parses a fully quantified union of conjunctive queries (UCQ) to a certain data structure
 * Implemented the lifted inference algorithm to lift the input query

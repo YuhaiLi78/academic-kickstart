@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-summary: Here we describe how to add a page to your site.
+summary: This is my first post.
 date: "2020-02-24T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
