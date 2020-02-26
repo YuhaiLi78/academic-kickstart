@@ -1,6 +1,6 @@
 ---
 title: "Probabilistic Database"
-summary: [Link to source code](https://github.com/BarrettLi/Probabilistic-Database)
+summary: "[Link to source code](https://github.com/BarrettLi/Probabilistic-Database)"
 date: 2020-02-24T11:31:29-08:00
 draft: false
 tag: ["database", "Artificial Intelligence"]
