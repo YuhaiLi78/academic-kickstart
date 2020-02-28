@@ -90,7 +90,7 @@ address = {street = "3256 Boelter Hall, UCLA", city = "Los Angeles", region = "C
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.0692388", longitude = "-118.4432392"}ß
+coordinates = {latitude = "34.0692388", longitude = "-118.4432392"}
 
 # Directions for visitors to locate you.
 directions = ""
