@@ -3,7 +3,7 @@ title: "Sentiment Prediction"
 summary: "[Link to source code](https://github.com/BarrettLi/UCLA_CS145/tree/master/Project/10-Moodbusers)"
 date: 2020-02-24T12:25:29-08:00
 draft: false
-tag: "Machine Learning"
+tags: ["Machine Learning"]
 ---
 * Designed and deployed a Twitter crawler to automatically download ~100GB tweets
 * Built classifying models with a subset of downloaded tweets to hone its ability to predict happiness/sadness
