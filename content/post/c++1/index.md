@@ -15,7 +15,7 @@ A variable or an object declared by keyword `const` is not motifiable.
 # 2. Roles
 (1) Declare a constant variable
 ```C++
-const int LENGTH = 20
+const int LENGTH = 20;
 ```
 
 (2) Type checking
@@ -28,11 +28,11 @@ bad coding style:
 ```c++
 // This is fxxking important!!!
 // DO NOT change its value, or I will KILL you!!!
-int TOTAL_NUM = 100
+int TOTAL_NUM = 100;
 ```
 good coding style:
 ```c++
-const int TOTAL_NUM=100
+const int TOTAL_NUM=100;
 ```
 
 (4) Memory saving
