@@ -23,6 +23,7 @@ const int LENGTH = 20
 
 (3) Foolproof
 Prevent your co-workers change the value of a predefined constant.
+
 bad coding style:
 ```c++
 // This is fxxking important!!!
@@ -75,7 +76,7 @@ int main(){
 ```
 Notice that in order to be used externally, a `const` variable has to not only be declared by `extern` but also to be initialized because its value is not motifiable after declarition.
 
-4. Utility and common mistakes
+# 4. Utility and common mistakes
 (1) Unmotifiable after declarition
 ```c++
 const int a = 123;
