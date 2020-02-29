@@ -18,10 +18,10 @@ A variable or an object declared by keyword `const` is not motifiable.
 const int LENGTH = 20;
 ```
 
-(2) Type checking
+(2) Type checking    
 `const` variable is commonly confused with `#define` micro, however, they are technically different. The constant variable declared by `const` is typed, so it can be type-checked by compiler through static type checking. But the micro defined by `#define` is a typeless placeholder. It does nothing more than a string replacement while the program is compiled, so the static type checking has nothing to do with it.
 
-(3) Foolproof
+(3) Foolproof    
 Prevent your co-workers change the value of a predefined constant.
 
 bad coding style:
@@ -35,7 +35,7 @@ good coding style:
 const int TOTAL_NUM=100;
 ```
 
-(4) Memory saving
+(4) Memory saving    
 In assembly language, a `const` variable is referred by a memory address, rather than a concrete value, like #define. So, a `const` variable has only one copy in memory while `#define` micro may have multiple copies.
 
 # 3. Scope
