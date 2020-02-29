@@ -1,5 +1,5 @@
 ---
-title: "C++ Study Note 1: `const`"
+title: "C++ Study Note 1: const"
 date: 2020-02-29T08:02:57-08:00
 draft: false
 tags: ["c++", "Programming Language"]
@@ -32,7 +32,7 @@ int TOTAL_NUM = 100;
 ```
 good coding style:
 ```c++
-const int TOTAL_NUM=100;
+const int TOTAL_NUM = 100;
 ```
 
 (4) Memory saving    
