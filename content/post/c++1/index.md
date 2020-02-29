@@ -14,9 +14,9 @@ A variable or an object declared by keyword `const` is not motifiable.
 
 # 2. Roles
 (1) Declare a constant variable
-'''C++
+```C++
 const int LENGTH = 20
-'''
+```
 
 (2) Type checking
 `const` variable is commonly confused with `#define` micro, however, they are technically different. The constant variable declared by `const` is typed, so it can be type-checked by compiler through static type checking. But the micro defined by `#define` is a typeless placeholder. It does nothing more than a string replacement while the program is compiled, so the static type checking has nothing to do with it.
@@ -24,22 +24,22 @@ const int LENGTH = 20
 (3) Foolproof
 Prevent your co-workers change the value of a predefined constant.
 bad coding style:
-'''c++
+```c++
 // This is fxxking important!!!
 // DO NOT change its value, or I will KILL you!!!
-TOTAL_NUM = 100
-'''
+int TOTAL_NUM = 100
+```
 good coding style:
-'''c++
-const TOTAL_NUM=100
-'''
+```c++
+const int TOTAL_NUM=100
+```
 
 (4) Memory saving
 In assembly language, a `const` variable is referred by a memory address, rather than a concrete value, like #define. So, a `const` variable has only one copy in memory while `#define` micro may have multiple copies.
 
 # 3. Scope
 (1) A nonconst-declared variable can be referred in another file.
-'''c++
+```c++
 // example1.cpp
 int example;
 // example2.cpp
@@ -54,10 +54,10 @@ int main(){
 // g++ -o executable example2.cpp example1.cpp
 // ./executable
 // 0
-'''
+```
 
 (2) A variable declared by keyword `const` is local to file by default, which means if you want it to be referred in another file, you have to explicitly declare that using `extern`.
-'''c++
+```c++
 // example1.cpp
 extern const int example = 100;
 // example2.cpp
@@ -72,17 +72,17 @@ int main(){
 // g++ -o executable example2.cpp example1.cpp
 // ./executable
 // 100
-'''
+```
 Notice that in order to be used externally, a `const` variable has to not only be declared by `extern` but also to be initialized because its value is not motifiable after declarition.
 
 4. Utility and common mistakes
 (1) Unmotifiable after declarition
-'''c++
+```c++
 const int a = 123;
 a = 666; // error!
-'''
+```
 
 (2) Must be initialized
-'''c++
+```c++
 const int b; // error!
-'''
+```
