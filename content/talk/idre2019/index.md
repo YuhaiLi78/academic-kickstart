@@ -1,6 +1,6 @@
 ---
 title: "IDRE2019"
-tags: ["IDRE"]
+tags: ["IDRE", "IDRE2019"]
 date: 2019-11-20T16:00:00-18:00
 draft: false
 # publication_types: 4
