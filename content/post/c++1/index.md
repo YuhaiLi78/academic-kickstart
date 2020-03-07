@@ -22,7 +22,7 @@ const int LENGTH = 20;
 `const` variable is commonly confused with `#define` micro, however, they are technically different. The constant variable declared by `const` is typed, so it can be type-checked by compiler through static type checking. But the micro defined by `#define` is a typeless placeholder. It does nothing more than a string replacement while the program is compiled, so the static type checking has nothing to do with it.
 
 (3) Foolproof    
-Prevent your co-workers change the value of a predefined constant.
+Prevent your stupid co-workers from changing the value of a predefined constant.
 
 bad coding style:
 ```c++
@@ -36,10 +36,10 @@ const int TOTAL_NUM = 100;
 ```
 
 (4) Memory saving    
-In assembly language, a `const` variable is referred by a memory address, rather than a concrete value, like #define. So, a `const` variable has only one copy in memory while `#define` micro may have multiple copies.
+In the assembly language, a `const` variable is referred by a memory address, rather than a concrete value, like `#define` does. So, a `const` variable has only one copy in the memory while `#define` micro may have multiple copies.
 
 # 3. Scope
-(1) A nonconst-declared variable can be referred in another file.
+(1) A nonconst variable can be referred in another file.
 ```c++
 // example1.cpp
 int example;
@@ -74,7 +74,7 @@ int main(){
 // ./executable
 // 100
 ```
-Notice that in order to be used externally, a `const` variable has to not only be declared by `extern` but also to be initialized because its value is not motifiable after declarition.
+Notice that in order to be used externally, a `const` variable has to not only be declared by `extern` but also to be initialized because its value is unmotifiable after declarition.
 
 # 4. Utility and common mistakes
 (1) Unmotifiable after declarition
