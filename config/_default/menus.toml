@@ -24,6 +24,11 @@
   weight = 30
 
 [[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 30
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
