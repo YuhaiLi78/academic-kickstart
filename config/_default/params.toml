@@ -110,7 +110,7 @@ contact_links = [
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "zoom", icon_pack="fab", name="Office Hour", link="https://ucla.zoom.us/j/893560466"}
+  {icon = "video", icon_pack="fas", name="Office Hour", link="https://ucla.zoom.us/j/893560466"}
   ]
 
 ############################
