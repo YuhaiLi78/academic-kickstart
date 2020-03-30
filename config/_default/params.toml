@@ -100,7 +100,7 @@ directions = ""
 office_hours = ['4pm-6pm @Thursdays']
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://ucla.zoom.us/j/893560466"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -110,6 +110,7 @@ contact_links = [
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "zoom", icon_pack="fab", name="Office Hour", link="https://ucla.zoom.us/j/893560466"}
   ]
 
 ############################
