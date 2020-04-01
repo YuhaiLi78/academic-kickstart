@@ -3,6 +3,10 @@ title: "Toturial: Matlab License Activation and Software Installation"
 date: 2020-03-31T21:06:57-08:00
 draft: false
 tags: ["Matlab", "CIVIL M20", "Spring 2020"]
+
+header:
+  caption: ""
+  image: "m20-header.png"
 ---
 
 This tutorial will explain step-by-step how to get your FREE Matlab license and install matlab software on your local computer. 
