@@ -1,5 +1,5 @@
 ---
-title: "Matlab License Activation and Software Installation"
+title: "Toturial: Matlab License Activation and Software Installation"
 date: 2020-03-31T21:06:57-08:00
 draft: false
 tags: ["Matlab", "CIVIL M20", "Spring 2020"]
@@ -23,11 +23,11 @@ Click the "Sign in with your UCLA Logon ID" botton and then log in to UCLA syste
 If you have any problem or error, please contact the help desk as soon as possible because you need this .edu email address to activate your Matlab license later.
 
 # Step 2: Go to UCLA Software Center and Follow the Instructions
-Search "ucla matlab license" on google, and then click for UCLA Software Center. 
+Search "ucla matlab license" on google, and then click the link for UCLA Software Center. 
 <figure class="image">
   <img src="search_matlab.png">
 </figure>
-Or, click this link: https://softwarecentral.ucla.edu/matlab-getmatlab, then you will see a very detailed instruction:
+Or, click this link: <https://softwarecentral.ucla.edu/matlab-getmatlab>, then you will see a very detailed instruction:
 <figure class="image">
   <img src="matlab_instr.png">
 </figure>
