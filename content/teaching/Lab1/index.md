@@ -1,6 +1,6 @@
 ---
 title: "Week 1 Lab Slides"
-date: 2020-04-03F10:00:00-11:50:00
+date: 2020-04-03T10:00:00-11:50:00
 draft: false
 tags: ["Matlab", "CIVIL M20", "Spring 2020"]
 
