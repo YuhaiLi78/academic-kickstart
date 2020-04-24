@@ -16,7 +16,7 @@ dt = 0.02;
 tf = 15;
 tol = 1e-6;
 
-while t < tf
+while t <= tf
     % your code
     if mod(t, 0.5) < tol
         fprintf("%.1f\n", t)
@@ -36,5 +36,22 @@ The code looks good and is logically correct. As a result, we should expect a se
 3.5
 4.0
 ```
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fconfused-nick-young&psig=AOvVaw0ec2QwdfETDCgJEFbPoFiu&ust=1587827702895000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjxoKatgekCFQAAAAAdAAAAABAD">
-Why it is not what we thought?
+<img src="https://i.kym-cdn.com/photos/images/original/000/993/875/084.png">
+Why it is not what we thought? Let's investigate in detail what the hell is happening in our code.
+First off, our while loop eventually ternminated which means our `t` was updated properly and finally went beyond `tf`. We may prove our assumption by adding another line to print out the value of `t` after the while loop terminated:
+```matlab
+t = 0;
+dt = 0.02;
+tf = 15;
+tol = 1e-6;
+
+while t <= tf
+    % your code
+    if mod(t, 0.5) < tol
+        fprintf("%.1f\n", t)
+    end
+    t = t + dt
+end
+fprintf("final t = %.02f\n", t);
+```
+The output is `final t = 15.02` which is what we expected. So, the while loop looks great. 
