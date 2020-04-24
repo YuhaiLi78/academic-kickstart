@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Good Questions on homework 3"
 date: 2020-04-24T21:07:49-08:00
 draft: false
 tags: ["Matlab", "CIVIL M20", "Spring 2020"]
