@@ -3,6 +3,7 @@ title: "Good Questions on homework 3"
 date: 2020-04-24F21:07:49-08:00
 draft: false
 tags: ["Matlab", "CIVIL M20", "Spring 2020"]
+commantable: True
 
 header:
   caption: ""
@@ -345,4 +346,57 @@ fprintf("t=%.2f\t==4.5?%d\t<4.5?%d\n", t, t==4.5, t<4.5);
 >>
 t=4.50  ==4.5?0	<4.5?1
 ```
-Here we go! `t` looks 4.5, it is not equal to 4.5 and it is actually less than 4.5! Done!
+Here we go! `t` looks 4.5, it is not equal to 4.5 and it is actually less than 4.5! Done!      
+Then how do we fix this problem?          
+I will recommand you to use iteration counts as the condition instead of time because integer is more reliable than floating-point numbers. So, the final code should look like:
+```matlab
+t = 0;
+dt = 0.02;
+tf = 15;
+tol = 1e-6;
+iterCount = 0;
+
+while t <= tf
+    % your code
+    if mod(iterCount, 25) < tol
+        fprintf("%.1f\n", t);
+    end
+    t = t + dt;
+    iterCount = iterCount + 1;
+end
+
+>>
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+10.0
+10.5
+11.0
+11.5
+12.0
+12.5
+13.0
+13.5
+14.0
+14.5
+15.0
+```
+
+Yeah! Cheers!
