@@ -21,10 +21,12 @@ date_format = "Jan 2006"
   title = "Software Engineer Intern"
   company = "Amazon Web Services (AWS)"
   company_url = ""
-  location = "Seattle, Washington"
+  location = "Jersey City, Greater New York Area"
   date_start = "2020-06-22"
   date_end = "2020-09-12"
-  description = """Coming soon"""
+  description = """
+  * Worked in Elastic Container Services (ECS) Scheduler team
+  * Coming soon"""
   
 [[experience]]
   title = "Machine Learning Research Assistant"
