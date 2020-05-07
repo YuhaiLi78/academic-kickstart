@@ -1,6 +1,6 @@
 ---
 title: "Learning from Sparse Datasets: Predicting Concrete's Strength by Machine Learning"
-date: "2020-04-29"
+date: 2020-04-29
 publication_types: 3
 abstract: """Despite enormous efforts over the last decades to establish the relationship between concrete
 proportioning and strength, a robust knowledge-based model for accurate concrete strength
