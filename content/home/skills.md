@@ -33,9 +33,9 @@ subtitle = ""
   # description = "80%"
 
 [[feature]]
-  icon = "brain"
-  icon_pack = "fas"
-  name = "Machine Learning"
+  icon = "machinelearning"
+  icon_pack = "fa"
+  name = "Machine/Deep Learning"
   # description
 
 [[feature]]
