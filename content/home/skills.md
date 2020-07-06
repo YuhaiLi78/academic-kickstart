@@ -33,7 +33,7 @@ subtitle = ""
   # description = "80%"
 
 [[feature]]
-  icon = "head-side-brain"
+  icon = "brain"
   icon_pack = "fas"
   name = "Machine/Deep Learning"
   # description
