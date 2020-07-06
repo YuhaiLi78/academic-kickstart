@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
 icon = "aws"
 icon_pack = "fab"
-name = "Amazon Web Services(AWS)"
+name = "AWS"
 
 [[feature]]
 icon = "cloud"
@@ -47,11 +47,5 @@ name = "Cloud"
   icon_pack = "fas"
   name = "Machine/Deep Learning"
   # description
-
-[[feature]]
-  icon = "network-wired"
-  icon_pack = "fas"
-  name = "Deep Learning"
-
 
 +++
