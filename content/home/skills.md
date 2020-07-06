@@ -15,6 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
   
 [[feature]]
+icon = "aws"
+icon_pack = "fab"
+name = "Amazon Web Services(AWS)"
+
+[[feature]]
+icon = "cloud"
+icon_pack = "fas"
+name = "Cloud"
+
+[[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
@@ -43,8 +53,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "Deep Learning"
 
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "Database"
+
 +++
