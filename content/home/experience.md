@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   description = """
   * Assisted in developing course curriculum at CIVIL M20: Introduction to Computer Programming with MATLAB
   * Held weekly 2-hour lectures to assist students through development of homework assginments and projects that allow students to solve real scientific problems
-  * Delicated 4-5 hours per week to answer questions and facilitate a supportive and energetic community that lasts beyond the formal courses
+  * Dedicated 4-5 hours per week to answer questions and facilitate a supportive and energetic community that lasts beyond the remote courses
   
   """
   
