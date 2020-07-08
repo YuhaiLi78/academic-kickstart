@@ -30,6 +30,7 @@ date_format = "Jan 2006"
   * Design and implement Uluru handlers such that day 0 support for features is provided.
   * Position the Uluru handlers to support the frameworks open source readiness.
   * Serve as the lead of educating and transferring the entire knowledge of Uluru over to the experiences team for transfer of ownership.
+  """
 
 [[experience]]
   title = "Teaching Assistant"
@@ -38,10 +39,11 @@ date_format = "Jan 2006"
   location = "Los Angeles, California"
   date_start = "2020-04"
   date_end = "2020-06"
-  description = "CIVIL M20: Introduction to Computer Programming with MATLAB"
-  * Assisted in developing course curriculum.
+  description = """
+  * Assisted in developing course curriculum at CIVIL M20: Introduction to Computer Programming with MATLAB
   * Held weekly 2-hour lectures to assist students through development of homework assginments and projects that allow students to solve real scientific problems
   * Delicated 4-5 hours per week to answer questions and facilitate a supportive and energetic community that lasts beyond the formal courses
+  """
   
 [[experience]]
   title = "Machine Learning Research Assistant"
