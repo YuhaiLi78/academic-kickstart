@@ -25,11 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-06-22"
   date_end = "2020-09-12"
   description = """
-  * Refactor Uluru (CloudFormation Registry) handlers ensuring that both public and private resources adhere to a properly designed object model.
-  * Make proper test coverage of all handlers including onboarding to Uluru's contract testing strategy.
-  * Design and implement Uluru handlers such that day 0 support for features is provided.
-  * Position the Uluru handlers to support the frameworks open source readiness.
-  * Serve as the lead of educating and transferring the entire knowledge of Uluru over to the experiences team for transfer of ownership.
+  * Refactored Uluru (CloudFormation Registry) handlers ensuring that both public and private resources adhere to a properly designed object model.
+  * Implemented and deployed the [EnvironmentFile](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-environmentfile.html) field in AWS CloudFormation template. 
+  * Served as the lead of educating and transferring the entire knowledge of Uluru over to the experiences team for transfer of ownership.
   
   """
 
