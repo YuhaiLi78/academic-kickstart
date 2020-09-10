@@ -21,12 +21,12 @@ date_format = "Jan 2006"
   title = "Software Engineer Intern"
   company = "Amazon Web Services (AWS)"
   company_url = ""
-  location = "Jersey City, Greater New York Area"
+  location = "Remote"
   date_start = "2020-06-22"
   date_end = "2020-09-12"
   description = """
   * Refactored Uluru (CloudFormation Registry) handlers ensuring that both public and private resources adhere to a properly designed object model.
-  * Implemented and deployed the [EnvironmentFile](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-environmentfile.html) field in AWS CloudFormation template. 
+  * Implemented and deployed the [EnvironmentFile](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-environmentfile.html) feature of Task Definition resource. 
   * Served as the lead of educating and transferring the entire knowledge of Uluru over to the experiences team for transfer of ownership.
   
   """
