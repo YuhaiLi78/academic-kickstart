@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Algorithms Instructor (Part-time)"
+  company = "FLAGDream"
+  company_url = "https://en.flagdream.com/"
+  location = "Los Angeles"
+  date_start = "2020-07-25"
+  date_end = ""
+  description = """
+  * Assisted in building the core curriculums at FLAGDream
+  * Facilitated a supportive and energetic community that lasts beyond the formal courses
+  * Assisted students through development of final projects that allows students to solve a real business problem and produce projects they can use in their portfolio
+  
+  """
+
+[[experience]]
   title = "Software Engineer Intern"
   company = "Amazon Web Services (AWS)"
   company_url = ""
