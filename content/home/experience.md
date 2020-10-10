@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://en.flagdream.com/"
   location = "Los Angeles"
   date_start = "2020-07-25"
-  date_end = ""
+  date_end = "2020-10-01"
   description = """
   * Assisted in building the core curriculums at FLAGDream
   * Facilitated a supportive and energetic community that lasts beyond the formal courses
@@ -35,13 +35,13 @@ date_format = "Jan 2006"
   title = "Software Engineer Intern"
   company = "Amazon Web Services (AWS)"
   company_url = "https://aws.amazon.com/"
-  location = "Remote"
+  location = "Jersy City, Greater New York Area"
   date_start = "2020-06-22"
   date_end = "2020-09-12"
   description = """
   * Refactored Uluru (CloudFormation Registry) handlers ensuring that both public and private resources adhere to a properly designed object model.
   * Implemented and deployed the [EnvironmentFile](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-environmentfile.html) feature of Task Definition resource. 
-  * Served as the lead of educating and transferring the entire knowledge of Uluru over to the experiences team for transfer of ownership.
+  * Served as the lead of educating and transferring the entire knowledge of Uluru over to the developer experiences team for transition of ownership.
   
   """
 
