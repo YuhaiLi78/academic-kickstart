@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 ---
 
-Welcome to my homepage! I am a second-year Ph.D. student co-advised by Dr. [Mathieu Bauchy](http://mathieu.bauchy.com/) and Dr. [Puneet Gupta](http://www.seas.ucla.edu/~puneet/home.html). My research interests include data-driven material analysis and machine/deep learning applications in material science.    
+Welcome to my homepage! I am a second-year Ph.D. student co-advised by Dr. [Mathieu Bauchy](http://mathieu.bauchy.com/) and Dr. [Puneet Gupta](https://www.ee.ucla.edu/puneet-gupta/). My research interests include data-driven material analysis and machine/deep learning applications in material science.    
 
 I was born in Tianjin, China and then moved to Bay Area, California with my family in 2012. After completing my school at De Anza College, I transferred to UCLA majoring in Computer Science. I got my B.S. Degree in June 2019 and then went directly to my current Ph.D. program. Right now, I am living with my perfect wife, Lia, in Glendale, California. 
 
