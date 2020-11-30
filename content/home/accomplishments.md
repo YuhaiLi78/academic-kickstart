@@ -28,4 +28,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "UCLA Anderson School of Management"
+  organization_url = "https://www.anderson.ucla.edu/"
+  title = "Technology Leadership Summer Institute at UCLA Anderson School of Management"
+  url = "https://summer.ucla.edu/institutes/TechnologyLeadership"
+  certificate_url = ""
+  date_start = "2017-07-01"
+  date_end = ""
+  description = ""
 +++
