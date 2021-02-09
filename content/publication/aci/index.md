@@ -3,7 +3,7 @@ title: "Predicting Concrete’s Strength by Machine Learning: Balance between Ac
 date: "2020-11-01"
 draft: false
 tags: ["Concrete", "Machine Learning"]
-publication_types: 3
+# publication_types: 3
 publication: "Materials Journal"
 
 abstract: ""
