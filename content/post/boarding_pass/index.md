@@ -1,6 +1,6 @@
 ---
 title: "Boarding Pass to Mars!"
-date: 2021-03-19T10:00:0-11:00:00
+date: 2021-03-19T08:02:57-08:00
 draft: false
 tags: []
 
