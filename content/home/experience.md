@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Google"
   location = "Remote in California"
   date_start = "2021-06-14"
-  date_end = "2020-09-15"
+  date_end = "2021-09-15"
   description = """
   * Will work in DataQnA team
   
