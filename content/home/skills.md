@@ -32,7 +32,7 @@ icon_pack = "fas"
 name = "Cloud"
 
 [[feature]]
-  icon = "datafase"
+  icon = "database"
   icon_pack = "fas"
   name = "Database"
   # description = "90%"
