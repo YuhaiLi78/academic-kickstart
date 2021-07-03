@@ -23,10 +23,11 @@ date_format = "Jan 2006"
   company = "Google"
   location = "Remote in California"
   date_start = "2021-06-14"
-  date_end = "2021-09-15"
+  date_end = ""
   description = """
-  * Will work in DataQnA team
-  
+  * Expanded the ability of DataQnA, which translates analytic queries from English to SQL, to support dialogic inputs using DialogFlow
+  * Defined an extensible intent separation criteria including the approach to bootstrap intents for existing capabilities so as to draw insights for future experiments and algorithm improvements
+  * Devised and implemented the algorithm for intent data generation and SQL generation
   """
     
 
