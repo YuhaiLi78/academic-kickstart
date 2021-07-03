@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Spring 2020"
     tag = "Spring 2020"
+
+  [[content.filter_button]]
+    name = "Spring 2021"
+    tag = "Spring 2021"
   
   # [[content.filter_button]]
   #   name = "Other"

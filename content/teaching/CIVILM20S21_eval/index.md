@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of the instructions"
+title: "Evaluation of the instructions Spring 2021"
 date: 2021-06-21T08:02:57-08:00
 draft: false
 tags: ["Matlab", "CIVIL M20", "Spring 2021"]
