@@ -23,11 +23,11 @@ date_format = "Jan 2006"
   company = "Google"
   location = "Remote in California"
   date_start = "2021-06-14"
-  date_end = ""
+  date_end = "2021-09-17"
   description = """
-  * Expanded the ability of DataQnA, which translates analytic queries from English to SQL, to support dialogic inputs using DialogFlow
+  * Designed and implemented the chatbot builder generating custom chatbots which translate analytical English sentences to the corresponding SQL queries for a given relational dataset
   * Defined an extensible intent separation criteria including the approach to bootstrap intents for existing capabilities so as to draw insights for future experiments and algorithm improvements
-  * Devised and implemented the algorithm for intent data generation and SQL generation
+  * Implemented the algorithm that generates analytical training phrases in the format of [DialogFlow](https://cloud.google.com/dialogflow/docs)
   """
     
 
