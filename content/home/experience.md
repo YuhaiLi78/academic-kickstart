@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineer Intern(Ph.D.)"
-  company = "Google"
+  company = "Google Cloud Platform, BigQuery"
   location = "Remote in California"
   date_start = "2021-06-14"
   date_end = "2021-09-17"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineer Intern"
-  company = "Amazon Web Services (AWS)"
+  company = "Amazon Web Services (AWS), Containers"
   company_url = "https://aws.amazon.com/"
   location = "Jersy City, Greater New York Area"
   date_start = "2020-06-22"
