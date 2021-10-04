@@ -50,7 +50,7 @@ social:
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/BarrettLi
+  link: https://github.com/YuhaiLi78
 - icon: linkedin
   icon_pack: fab
   link: "https://www.linkedin.com/in/yuhai-li-95a133b0/"
@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 ---
 
-Welcome to my homepage! I am a second-year Ph.D. student co-advised by Dr. [Mathieu Bauchy](http://mathieu.bauchy.com/) and Dr. [Puneet Gupta](https://www.ee.ucla.edu/puneet-gupta/). My research interests include data-driven material analysis and machine/deep learning applications in material science.    
+Welcome to my homepage! I am a third-year Ph.D. student co-advised by Dr. [Mathieu Bauchy](http://mathieu.bauchy.com/) and Dr. [Puneet Gupta](https://www.ee.ucla.edu/puneet-gupta/). My research interests include data-driven material analysis and applied machine/deep learning in material science.    
 
 A quality-oriented student with the ability to apply machine learning in an industrial setting. Skilled in machine learning libraries, like JAX, TensorFlow and PyTorch and software development with Java, Python, and C/C++. Have hands-on experience with developing optimization and ML algorithms and running experiments on material systems. Have enthusiasm towards learning new skills.          
 
