@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2021-06-14"
   date_end = "2021-09-17"
   description = """
-  * Designed and implemented the chatbot builder generating custom chatbots which translate analytical English sentences to the corresponding SQL queries for a given relational dataset
-  * Defined an extensible intent separation criteria including the approach to bootstrap intents for existing capabilities so as to draw insights for future experiments and algorithm improvements
+  * Designed and implemented the chatbot builder generating custom chatbots that translate analytical English sentences to the corresponding SQL queries for a given relational dataset
+  * Defined extensible intent separation criteria including the approach to bootstrap intents for existing capabilities so as to draw insights for future experiments and algorithm improvements
   * Implemented the algorithm that generates analytical training phrases in the format of [DialogFlow](https://cloud.google.com/dialogflow/docs)
   """
     
@@ -54,8 +54,8 @@ date_format = "Jan 2006"
   date_end = "2020-09-12"
   description = """
   * Refactored Uluru (CloudFormation Registry) handlers ensuring that both public and private resources adhere to a properly designed object model.
-  * Implemented and deployed the [EnvironmentFile](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-environmentfile.html) feature of Task Definition resource. 
-  * Served as the lead of educating and transferring the entire knowledge of Uluru over to the developer experiences team for transition of ownership.
+  * Implemented and deployed the [EnvironmentFile](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-environmentfile.html) feature of the Task Definition resource. 
+  * Served as the lead of educating and transferring the entire knowledge of Uluru over to the developer experiences team for the transition of ownership.
   
   """
 
