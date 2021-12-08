@@ -1,6 +1,6 @@
 ---
 title: "Sentiment Prediction"
-summary: "[Link to source code](https://github.com/BarrettLi/UCLA_CS145/tree/master/Project/10-Moodbusers)"
+summary: "[Source Code](https://github.com/BarrettLi/UCLA_CS145/tree/master/Project/10-Moodbusers) [App](https://sentiment-logistic.herokuapp.com/polls/)"
 date: 2020-02-24T12:25:29-08:00
 draft: false
 tags: ["Machine Learning"]
