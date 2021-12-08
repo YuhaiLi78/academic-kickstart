@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Machine Learning"
     tag = "Machine Learning"
+
+  [[content.filter_button]]
+    name = "Natural Language Processing"
+    tag = "Natural Language Processing"
   
   # [[content.filter_button]]
   #   name = "Other"
