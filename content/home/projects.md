@@ -26,11 +26,11 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Machine Learning"
+    name = "ML"
     tag = "Machine Learning"
 
   [[content.filter_button]]
-    name = "Natural Language Processing"
+    name = "NLP"
     tag = "Natural Language Processing"
   
   # [[content.filter_button]]
