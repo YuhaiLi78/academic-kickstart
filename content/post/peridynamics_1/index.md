@@ -39,3 +39,7 @@ The displacement vectors of a material point <b>x</b><sub>(k)</sub> can be store
    <mo> } </mo>
 </mrow>
 </math>
+
+# Force Density
+The collective deformation of <b>H</b><sub>x<sub>(k)</sub></sub> resulting in a force density vector <b>t</b><sub>(k)(j)</sub> applied on the material point <b>x</b><sub>(k)</sub>. Similar to the displacement vectors, the force density vectors of a material point <b>x</b><sub>(k)</sub> can also be stored in an array, <u><b>T</b></u>:    
+<u>T</u>(<b>x</b><sub>(k)</sub>, t) = {<b>t</b><sub>(k)(1)</sub>, <b>t</b><sub>(k)(2)</sub>, ..., <b>t</b><sub>(k)(n)</sub>}
