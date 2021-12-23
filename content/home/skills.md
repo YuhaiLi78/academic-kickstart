@@ -21,12 +21,6 @@ subtitle = ""
   # description = "80%"
 
 [[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "Open Source"
-  # description = "80%"
-
-[[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Machine/Deep Learning"
@@ -54,11 +48,4 @@ name = "Cloud"
   icon_pack = "fab"
   name = "Python"
   # description = "90%"
-
-[[feature]]
-  icon = "cauldron"
-  icon_pack = "fas"
-  name = "Material Design"
-  # description = "90%"
-
 +++
