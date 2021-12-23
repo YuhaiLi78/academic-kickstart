@@ -1,16 +1,16 @@
 +++
 # Experience widget.
-widget: experience  # See https://sourcethemes.com/academic/docs/page-builder/
-headless: true  # This file represents a page section.
-active: true  # Activate this widget? true/false
-weight: 40  # Order that this section will appear.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-title: Experience
-subtitle: ''
+title = "Experience"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format : Jan 2006
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -19,14 +19,14 @@ date_format : Jan 2006
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
- -title: Software Engineer Intern(Ph.D.)
-  company: Google Cloud Platform, BigQuery
-  company_url: "https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1009892&utm_content=text-ad-none-any-DEV_c-CRE_541808223311-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Data%20Analytics%20~%20BigQuery_Big%20Query-KWID_43700064195147853-kwd-63326440124&utm_term=KW_google%20bigquery-ST_google%20bigquery&gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VFNi6lXEIbWVZEvje8pwyzJqCxG9-O6EBmPn9fJneOAz1SbH1Aqdm0aAuImEALw_wcB&gclsrc=aw.ds"
-  company_logo: G_Logo
-  location: Remote in California
-  date_start: 2021-06-14
-  date_end: 2021-09-17
-  description: """
+  title = "Software Engineer Intern(Ph.D.)"
+  company = "Google Cloud Platform, BigQuery"
+  company_url = "https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1009892&utm_content=text-ad-none-any-DEV_c-CRE_541808223311-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Data%20Analytics%20~%20BigQuery_Big%20Query-KWID_43700064195147853-kwd-63326440124&utm_term=KW_google%20bigquery-ST_google%20bigquery&gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VFNi6lXEIbWVZEvje8pwyzJqCxG9-O6EBmPn9fJneOAz1SbH1Aqdm0aAuImEALw_wcB&gclsrc=aw.ds"
+  company_logo = G_Logo
+  location = "Remote in California"
+  date_start = "2021-06-14"
+  date_end = "2021-09-17"
+  description = """
   * Designed and implemented the chatbot builder generating custom chatbots that translate analytical English sentences to the corresponding SQL queries for a given relational dataset
   * Defined extensible intent separation criteria including the approach to bootstrap intents for existing capabilities so as to draw insights for future experiments and algorithm improvements
   * Implemented the algorithm that generates analytical training phrases in the format of [DialogFlow](https://cloud.google.com/dialogflow/docs)
@@ -88,6 +88,4 @@ date_format : Jan 2006
 
   """
 
-design:
-  columns: '2'
 +++
