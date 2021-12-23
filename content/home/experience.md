@@ -4,6 +4,7 @@ widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
+columns = 2
 
 title = "Experience"
 subtitle = ""
@@ -86,6 +87,5 @@ date_format = "Jan 2006"
   * Wrote a paper as the second author for ACI Materials Journal’s Special Edition on Computational Modeling
 
   """
-design:
-columns = "2"
+
 +++
