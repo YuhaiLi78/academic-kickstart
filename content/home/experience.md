@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   title = "Software Engineer Intern(Ph.D.)"
   company = "Google Cloud Platform, BigQuery"
   company_url = "https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1009892&utm_content=text-ad-none-any-DEV_c-CRE_541808223311-ADGP_Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Data%20Analytics%20~%20BigQuery_Big%20Query-KWID_43700064195147853-kwd-63326440124&utm_term=KW_google%20bigquery-ST_google%20bigquery&gclid=Cj0KCQjwrJOMBhCZARIsAGEd4VFNi6lXEIbWVZEvje8pwyzJqCxG9-O6EBmPn9fJneOAz1SbH1Aqdm0aAuImEALw_wcB&gclsrc=aw.ds"
-  company_logo = G_Logo.svg
+  company_logo = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&psig=AOvVaw11zYAnz7b_M9SLjCmKn8yW&ust=1640327625185000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDJrN2m-fQCFQAAAAAdAAAAABAD"
   location = "Remote in California"
   date_start = "2021-06-14"
   date_end = "2021-09-17"
