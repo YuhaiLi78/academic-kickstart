@@ -1,6 +1,6 @@
 ---
 title: "Stochastic Micromechanical Damage Model for Porous Materials under Uniaxial Tension"
-date: "2022-02-01"
+date: "2022-04-01"
 draft: false
 tags: ["Porous material"]
 # publication_types: 3
