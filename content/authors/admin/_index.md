@@ -71,8 +71,8 @@ user_groups:
 
 Welcome to my homepage! I am a third-year Ph.D. student co-advised by Dr. [Mathieu Bauchy](http://mathieu.bauchy.com/) and Dr. [Puneet Gupta](https://www.ee.ucla.edu/puneet-gupta/). My research interests include data-driven material analysis and applied machine/deep learning in material science.    
 
-A quality-oriented student with the ability to apply machine learning in an industrial setting. Skilled in machine learning libraries, like JAX, TensorFlow and PyTorch and software development with Java, Python, and C/C++. Have hands-on experience with developing optimization and ML algorithms and running experiments on material systems. Have enthusiasm towards learning new skills.          
+I am a conscientious student capable of applying machine learning in an industrial setting. I have sufficient knowledge and experience of machine learning libraries such as JAX, TensorFlow, and PyTorch, as well as software development in Java, Python, and C/C++. I possess practical expertise creating optimization and machine learning methods, such as gradient-based optimization, simulated annealing, Monte Carlo methods, Bayesian models, and reinforcement learning, as well as conducting tests on real systems. I am zealous in my pursuit of new abilities.          
 
-I was born in Tianjin, China and then moved to Bay Area, California with my family in 2012. After completing my school at De Anza College, I transferred to UCLA majoring in Computer Science. I got my B.S. Degree in June 2019 and then went directly to my current Ph.D. program. Right now, I am living with my perfect wife, Lia, in Glendale, California. 
+I was born in Tianjin, China and migrated with my family to the Bay Area, California in 2012. After graduating from De Anza College, I moved to UCLA to pursue a degree in Computer Science. I earned my B.S. in June 2019 and then enrolled in my current Ph.D. program. I am currently residing in Glendale, California, with my perfect wife, Lia.
 
 Besides doing research and coding, I also love sports, traveling and food. 
