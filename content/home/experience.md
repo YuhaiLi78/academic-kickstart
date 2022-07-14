@@ -27,7 +27,8 @@ date_format = "Jan 2006"
   date_start = "2022-06-21"
   date_end = ""
   description = """
-  Amazing things are going to happen soon!
+  * Implemented structured guides for fashion queries
+  * Designed and implemented a DNN model for personalized query recommandations
   """
 
 
