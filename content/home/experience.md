@@ -25,10 +25,11 @@ date_format = "Jan 2006"
   company_url = "https://www.pinterest.com/"
   location = "Palo Alto, California"
   date_start = "2022-06-21"
-  date_end = ""
+  date_end = "2022-09-09"
   description = """
-  * Implemented structured guides for fashion queries
-  * Designed and implemented a DNN model for personalized query recommandations
+  * Implemented structured search guides for fashion verticals, which increased the pin clickthrough volume and propensity by 0.897% and 0.195%
+  * Proposed and implemented content-based algorithms based on users' behaviors and interests for personalization of the guides ranking
+  * Designed and implemented a DNN model for personalized query recommendations
   """
 
 
