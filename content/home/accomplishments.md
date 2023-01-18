@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "UCLA CEE Department"
+  organization = "UCLA Department of Civil and Environmental Engieering"
   organization_url = "https://www.cee.ucla.edu/"
   title = "Division of Graduate Education Fellowship"
   url = ""
