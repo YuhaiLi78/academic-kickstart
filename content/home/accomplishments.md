@@ -39,6 +39,16 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "University of California"
+  <!-- organization_url = "https://www.coursera.org" -->
+  title = "Dean's Honors List"
+  <!-- url = "https://www.coursera.org/professional-certificates/ibm-data-science" -->
+  <!-- certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/TJ4R2V6R42BP" -->
+  date_start = "2018-09-01"
+  date_end = "2018-12-01"
+  description = ""
+
+[[item]]
   organization = "UCLA Anderson School of Management"
   organization_url = "https://www.anderson.ucla.edu/"
   title = "Technology Leadership Summer Institute at UCLA Anderson School of Management"
