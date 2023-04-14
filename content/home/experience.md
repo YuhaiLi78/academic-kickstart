@@ -24,10 +24,10 @@ date_format = "Jan 2006"
   company = "Uber, Marketplace Pricing and Incentives"
   company_url = ""
   location = "California"
-  date_start = ""
+  date_start = "2023-04-01"
   date_end = "2023-09-01"
   description = """
-  Amazing things are going to happend soon!
+  Start in June. Amazing things are going to happend soon!
   """
     
 
