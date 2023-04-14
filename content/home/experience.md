@@ -21,9 +21,9 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Ph.D. Software Engineer Intern"
   company = "Uber, Marketplace Pricing and Incentives"
-  <!-- company_url = "https://www.pinterest.com/" -->
-  <!-- location = "Palo Alto, California" -->
-  date_start = "2023-06-12"
+  company_url = "https://www.uber.com/"
+  location = "California"
+  date_start = ""
   date_end = "2022-09-01"
   description = """
   Amazing things are going to happen soon.
