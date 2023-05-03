@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2023-04-01"
   date_end = "2023-09-01"
   description = """
-  Start in June. Amazing things are going to happend soon!
+  Start in June. Amazing things are going to happen soon!
   """
     
 
