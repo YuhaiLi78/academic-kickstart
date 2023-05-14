@@ -20,6 +20,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Computer Science Instructor (Part-time)"
+  company = "Sinica Education"
+  company_url = "http://www.sinicaeducation.com/"
+  location = "Los Angels, California"
+  date_start = "2022-12-06"
+  date_end = ""
+  description = """
+  * Conducted one-on-one tutoring sessions with college-level students to provide comprehensive instruction on algorithm design, machine learning, C/C++, Java programming, and operating systems, etc.
+  * Assisted students in understanding complex computer science concepts and practical application through personalized teaching methods.
+  * Developed tailored lesson plans and educational materials to cater to individual learning styles and academic goals.
+  * Provided guidance and support in problem-solving, code debugging, and project development to enhance students' technical skills.
+  * Monitored progress and implemented effective assessment strategies to evaluate students' understanding and adjust instruction accordingly.
+  * Fostered a positive and motivating learning environment to encourage student engagement and success in computer science coursework.
+  """
+    
+
+[[experience]]
   title = "Ph.D. Research Software Engineer Intern"
   company = "Uber, Marketplace Pricing and Incentives"
   company_url = ""
