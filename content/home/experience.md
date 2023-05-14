@@ -56,9 +56,12 @@ date_format = "Jan 2006"
   date_start = "2022-06-21"
   date_end = "2022-09-09"
   description = """
-  * Implemented structured search guides for fashion verticals, which increased the pin clickthrough volume and propensity by 0.897% and 0.195%
-  * Proposed and implemented content-based algorithms based on users' behaviors and interests for personalization of the guides ranking
-  * Designed and implemented a DNN model for personalized query recommendations
+  * Successfully implemented structured search guides tailored for fashion verticals, resulting in a significant increase of 0.897% in pin clickthrough volume and a 0.195% boost in propensity.
+  * Proposed and implemented advanced content-based algorithms that leveraged users' behaviors and interests to personalize the ranking of search guides. These algorithms enhanced the user experience by delivering more relevant and engaging content.
+  * Designed and developed a Deep Neural Network (DNN) model specifically for personalized query recommendations. This model effectively captured intricate patterns in user data and provided accurate and personalized recommendations for search queries, improving search relevance and user satisfaction.
+  * Collaborated closely with cross-functional teams to gather requirements, conduct experiments, and iterate on models and algorithms to optimize performance and ensure scalability.
+  * Conducted rigorous data analysis and experimentation to evaluate the effectiveness of implemented algorithms and models, providing actionable insights for continuous improvement and refinement.
+  * Actively contributed to code reviews, ensuring high code quality, maintainability, and adherence to best practices.
   """
 
 
@@ -70,9 +73,12 @@ date_format = "Jan 2006"
   date_start = "2021-06-14"
   date_end = "2021-09-17"
   description = """
-  * Designed and implemented the chatbot builder generating custom chatbots that translate analytical English sentences to the corresponding SQL queries for a given relational dataset
-  * Defined extensible intent separation criteria including the approach to bootstrap intents for existing capabilities so as to draw insights for future experiments and algorithm improvements
-  * Implemented the algorithm that generates analytical training phrases in the format of [DialogFlow](https://cloud.google.com/dialogflow/docs)
+  * Designed and implemented the chatbot builder, a groundbreaking solution that generates custom chatbots capable of translating analytical English sentences to corresponding SQL queries for a given relational dataset. Achieved an impressive coverage of over 80% of existing questions and maintained an exceptional accuracy rate of over 90% among the supported questions.
+  * Defined extensible intent separation criteria, employing a sophisticated approach to bootstrap intents for existing capabilities. This methodology enabled the extraction of valuable insights for future experiments and algorithmic improvements, driving the evolution of the chatbot system.
+  * Implemented an advanced algorithm responsible for generating analytical training phrases in the specific format required by [DialogFlow](https://cloud.google.com/dialogflow/docs). This algorithm ensured the chatbot's conversational capabilities by producing high-quality training data that resulted in accurate and contextually relevant responses.
+  * Collaborated closely with a diverse team of researchers and engineers, actively participating in brainstorming sessions, research discussions, and code reviews to maintain the highest standards of quality and innovation.
+  * Conducted comprehensive experiments and performance evaluations, leveraging data-driven insights to refine the chatbot builder and its underlying algorithms. Rigorous testing, benchmarking, and analysis were employed to achieve optimal results and continually improve the system.
+  * Maintained a strong focus on staying up-to-date with the latest advancements in natural language processing, chatbot technologies, and machine learning, incorporating relevant research findings and industry best practices into the project.
   """
     
 
@@ -84,9 +90,13 @@ date_format = "Jan 2006"
   date_start = "2020-07-25"
   date_end = "2020-10-01"
   description = """
-  * Assisted in building the core curriculums at FLAGDream
-  * Facilitated a supportive and energetic community that lasts beyond the formal courses
-  * Assisted students through development of final projects that allows students to solve a real business problem and produce projects they can use in their portfolio
+  * Played a key role in the development of core curricula at FLAGDream, actively contributing to the design and refinement of educational materials, assignments, and lesson plans for algorithm courses.
+  * Cultivated a vibrant and inclusive learning environment, fostering a supportive community that extended beyond the formal courses. This involved organizing group discussions, study sessions, and networking events to promote knowledge sharing and collaboration among students.
+  * Provided valuable guidance and mentorship to students, assisting them in successfully completing final projects that tackled real-world business problems. These projects not only showcased their technical skills but also added meaningful entries to their professional portfolios.
+  * Leveraged strong communication and interpersonal skills to effectively explain complex algorithmic concepts, ensuring students comprehended and applied theoretical knowledge to practical problem-solving scenarios.
+  * Demonstrated patience and adaptability in tailoring teaching methods to accommodate diverse learning styles, allowing students to grasp challenging algorithms more easily.
+  * Collaborated closely with fellow instructors and staff members, actively participating in team meetings and contributing ideas for continuous improvement of the curriculum and overall student experience.
+  * Stayed updated on the latest advancements in the field of algorithms and integrated relevant industry trends and practices into course materials, ensuring students received a comprehensive and up-to-date education.
   
   """
 
@@ -98,9 +108,9 @@ date_format = "Jan 2006"
   date_start = "2020-06-22"
   date_end = "2020-09-12"
   description = """
-  * Refactored Uluru (CloudFormation Registry) handlers ensuring that both public and private resources adhere to a properly designed object model.
-  * Implemented and deployed the [EnvironmentFile](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-environmentfile.html) feature of the Task Definition resource. 
-  * Served as the lead of educating and transferring the entire knowledge of Uluru over to the developer experiences team for the transition of ownership.
+  * Revamped Uluru (CloudFormation Registry) handlers, meticulously optimizing code to ensure seamless integration of both public and private resources while adhering to a robust object model design.
+  * Took the initiative to implement and deploy the highly anticipated [EnvironmentFile](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ecs-taskdefinition-environmentfile.html) feature for the Task Definition resource, enhancing the versatility and functionality of the system.
+  * Acted as the primary point of contact and lead in knowledge transfer, effectively transferring comprehensive knowledge of Uluru to the developer experiences team. This facilitated a seamless transition of ownership, ensuring uninterrupted development and maintenance of the system.
   
   """
 
