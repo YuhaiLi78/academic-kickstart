@@ -41,10 +41,12 @@ date_format = "Jan 2006"
   company = "Uber, Marketplace Pricing and Incentives"
   company_url = ""
   location = "California"
-  date_start = "2023-04-01"
+  date_start = "2023-06-12"
   date_end = "2023-09-01"
   description = """
-  Start in June. Amazing things are going to happen soon!
+  * Engineered an end-to-end data pipeline utilizing Spark, streamlining the process of data acquisition, cleansing, machine learning model training, and real-time predictive deployment.
+  * Developed and implemented multiple Graph Neural Network (GNN) algorithms to generate unsupervised user embeddings, offering nuanced insights into complex user behaviors.
+  * Architected a comprehensive graph infrastructure that utilized account features such as email and order history, facilitating an advanced analysis of interconnections among a massive 60-million user base. This contributed to a deeper understanding of user behavior patterns.
   """
     
 
