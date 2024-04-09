@@ -86,7 +86,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "3256A Boelter Hall, UCLA", city = "Los Angeles", region = "CA", postcode = "90024", country = "United States", country_code = "US"}
+address = {street = "3256 Boelter Hall, UCLA", city = "Los Angeles", region = "CA", postcode = "90024", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -97,7 +97,7 @@ directions = "Knock the door by the elevator"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Tue, Thu 10 am - 11 am"]
+office_hours = ["Tue 10 am - 11 am"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
