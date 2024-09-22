@@ -20,14 +20,39 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Ph.D. Resident"
+  company = "X, the Moonshot Factory"
+  company_url = "https://x.company/"
+  location = "Mountain View, California"
+  date_start = "2024-09-17"
+  date_end = ""
+  description = """
+  LLM + knowledge graph
+  """
+
+[[experience]]
+  title = "Machine Learning Engineer Intern"
+  company = "Unnatural Products"
+  company_url = "https://www.unnaturalproducts.com/"
+  location = "Santa Cruz, California"
+  date_start = "2024-09-17"
+  date_end = ""
+  description = """
+  Drug discovery
+  """
+
+[[experience]]
   title = "Machine Learning Research Engineer Intern"
   company = "Scale AI"
   company_url = "https://scale.com/"
   location = "San Francisco, California"
   date_start = "2024-06-17"
-  date_end = ""
+  date_end = "2024-09-06"
   description = """
-  * Exciting things are going to happen in June.
+  * Developed regression models, such as Neural Networks, to accurately predict the physical properties of porous materials based on input images.
+  * Built generative models to perform constrained optimizations and inverse designs of porous material configurations to achieve desired physical properties.
+  * Designed and implemented graph-based machine learning models to boost the prediction of physical properties of porous material and surrogate the simulations.
+  * Built self-regressive models to surrogate simulators to speed up the material simulations.
   """
 
 [[experience]]
