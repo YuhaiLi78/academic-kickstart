@@ -20,14 +20,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Ph.D. Resident"
+  title = "AI Resident"
   company = "X, the Moonshot Factory"
   company_url = "https://x.company/"
   location = "Mountain View, California"
   date_start = "2024-09-17"
   date_end = ""
   description = """
-  LLM + knowledge graph
+  Confidential 0-1 LLM products development
   """
 
 [[experience]]
@@ -36,9 +36,11 @@ date_format = "Jan 2006"
   company_url = "https://www.unnaturalproducts.com/"
   location = "Santa Cruz, California"
   date_start = "2024-09-17"
-  date_end = ""
+  date_end = "2024-10-17"
   description = """
-  Drug discovery
+  * Developed a Python library called virtual lab, a custom workflow that facilitates the creation of virtual configurations of motifs from monomers.
+  * Enabled users to select source monomers and build theoretically sound motifs, supporting experimental planning and development.
+  * Designed a user-friendly interface for seamless configuration, providing flexibility in designing unique chemical workflows.
   """
 
 [[experience]]
