@@ -49,10 +49,11 @@ date_format = "Jan 2006"
   date_start = "2024-06-17"
   date_end = "2024-09-06"
   description = """
-  * Developed regression models, such as Neural Networks, to accurately predict the physical properties of porous materials based on input images.
-  * Built generative models to perform constrained optimizations and inverse designs of porous material configurations to achieve desired physical properties.
-  * Designed and implemented graph-based machine learning models to boost the prediction of physical properties of porous material and surrogate the simulations.
-  * Built self-regressive models to surrogate simulators to speed up the material simulations.
+  * Developed CLI tools to streamline the configuration, fine-tuning, execution, deployment, and launching of LLM applications, speeding up the development time by 40%. 
+  * Designed and implemented an auto-evaluation system that understands user-profiles and personalizes prompts used to generate auto-evaluators for LLM models.
+  *  Created AI-assisted red teaming that generates synthetic adversarial user speeches for a specific taxonomy
+  * Fine-tuned the Llama Guard model with synthetic data and got 0.1 improvement in AUPRC on the OpenAI Moderation dataset and 0.16 improvement in AUPRC on the ToxicChat.
+
   """
 
 [[experience]]
