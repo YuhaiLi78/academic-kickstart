@@ -27,7 +27,10 @@ date_format = "Jan 2006"
   date_start = "2024-09-17"
   date_end = ""
   description = """
-  Confidential 0-1 LLM products development
+  * Developed a Retrieval-Augmented Generation (RAG) system from scratch to streamline onboarding for developers and clients, reducing the development time for complex SQL queries mapping from fashion retailing's corporate databases to aggregations.
+  * Built a data pipeline to generate and validate high-quality synthetic data, extending coverage beyond the client's industry to multiple other industries.
+  * Created the initial version of the RAG workflow for annotating tables, generating metadata, and writing queries to identify potential data inconsistencies, including both column-level and cross-table inconsistencies.
+  * Built a configurable framework that allows developers to easily conduct experiments without code change
   """
 
 [[experience]]
