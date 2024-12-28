@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "https://x.company/"
   location = "Mountain View, California"
   date_start = "2024-09-17"
-  date_end = ""
+  date_end = "2025-01-01"
   description = """
   * Developed a Retrieval-Augmented Generation (RAG) system from scratch to streamline onboarding for developers and clients, reducing the development time for complex SQL queries mapping from fashion retailing's corporate databases to aggregations.
   * Built a data pipeline to generate and validate high-quality synthetic data, extending coverage beyond the client's industry to multiple other industries.
