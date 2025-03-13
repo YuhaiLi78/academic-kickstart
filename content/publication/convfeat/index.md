@@ -1,6 +1,6 @@
 ---
 title: "Convfeatnet Ensemble: Integrating Microstructure and Pre-Defined Features for Enhanced Prediction of Porous Material Properties"
-date: "2025-12-13"
+date: "2025-03-09"
 draft: false
 tags: ["Porous Materials", "Fracture Mechanics", "Material Properties Prediction", "SHAP Analysis"]
 # publication_types: 3
