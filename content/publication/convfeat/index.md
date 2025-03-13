@@ -1,12 +1,12 @@
 ---
 title: "Convfeatnet Ensemble: Integrating Microstructure and Pre-Defined Features for Enhanced Prediction of Porous Material Properties"
-date: "2024-12-13"
+date: "2025-12-13"
 draft: false
 tags: ["Porous Materials", "Fracture Mechanics", "Material Properties Prediction", "SHAP Analysis"]
 # publication_types: 3
-publication: "SSRN"
+publication: "Materials Science and Engineering: A"
 
-abstract: "This study introduces ConvFeatNet, a deep learning framework specifically engineered to accurately and efficiently predict the mechanical properties of porous materials based solely on their microstructures. Despite the limitations imposed by a small dataset, ConvFeatNet achieves significant accuracy by integrating structural features with advanced deep-learning techniques. The incorporation of graphical, knowledge-based features substantially mitigates prediction errors, especially in scenarios with sparse data, and augments the model's ability to generate precise forecasts across extensive and varied datasets. The ensemble version of ConvFeatNet demonstrates its efficacy by achieving a mean squared error (MAE) of 0.85 J/m2 in predicting the fracture energy of a two-dimensional porous material using merely 1,000 samples, compared to a higher MAE of 1.08 J/m² with a simple MLP and 1.38 J/m² with a simple CNN. Further, expanding the dataset to 10,000 samples reduces the MAE to 0.51 J/m2 for ConvFeatNet, while the simple MLP and CNN models achieve MAEs of 0.67 J/m² and 0.56 J/m², respectively. The analysis also delves into the structural determinants that enrich the predictive insights of the model. This research underscores the synergistic potential of combining deep learning with domain expertise to decode the mechanical behaviors of porous materials, emphasizing the critical role of structural complexities."
+abstract: "This study introduces ConvFeatNet, a deep learning framework specifically designed to predict the mechanical properties of porous materials based on their microstructures. Despite dataset limitations, ConvFeatNet integrates both structural and predefined features with deep learning techniques to enhance predictive accuracy. The ensemble version of ConvFeatNet achieves a mean absolute error (MAE) of 0.85 J/m2 in predicting fracture energy using 1,000 samples, outperforming a simple MLP (MAE: 1.08 J/m2) and CNN (MAE: 1.38 J/m2) by 21% and 38%, respectively. Expanding the dataset to 10,000 samples further reduces the MAE to 0.51 J/m2, representing a 24% improvement over the MLP and a 9% improvement over the CNN. Additionally, SHAP analysis is employed to interpret model predictions, revealing the key structural determinants influencing mechanical behavior. This study highlights the synergy between deep learning and domain knowledge, offering a robust approach for deciphering the mechanical properties of porous materials."
 
-url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5054840"
+url_pdf: "https://doi.org/10.1016/j.msea.2025.148173"
 ---
