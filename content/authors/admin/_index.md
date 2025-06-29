@@ -69,10 +69,8 @@ user_groups:
 - Researchers
 ---
 
-Welcome to my homepage! I am a 5th-year Ph.D. student co-advised by Dr. [Ertugrul Taciroglu](http://www.tacirogluresearch.org) and Dr. [Puneet Gupta](https://www.ee.ucla.edu/puneet-gupta/). My research interests include data-driven material analysis and applied machine/deep learning in material science.    
+Welcome to my homepage! I received my Ph.D. from UCLA and start working at Meta as a Research Scientist in 2025. My research interests include data-driven material analysis and applied machine/deep learning in material science.          
 
-I am a conscientious student capable of applying machine learning in an industrial setting. I have sufficient knowledge and experience of machine learning libraries such as JAX, TensorFlow, and PyTorch, as well as software development in Java, Python, and C/C++. I possess practical expertise creating optimization and machine learning methods, such as gradient-based optimization, simulated annealing, Monte Carlo methods, Bayesian models, and reinforcement learning, as well as conducting tests on real systems. I am zealous in my pursuit of new abilities.          
-
-I was born in Tianjin, China and migrated with my family to the Bay Area, California in 2012. After graduating from De Anza College, I moved to UCLA to pursue a degree in Computer Science. I earned my B.S. in June 2019 and then enrolled in my current Ph.D. program. I am currently residing in Glendale, California, with my perfect wife, Lia.
+I was born in Tianjin, China and migrated with my family to the Bay Area, California in 2012. After graduating from De Anza College, I moved to UCLA where I got both my B.S. and Ph.D. I am currently residing in Cupertino, California, with my perfect wife, Lia.
 
 Besides doing research and coding, I also love sports, traveling and food. 
