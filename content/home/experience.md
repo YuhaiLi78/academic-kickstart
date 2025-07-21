@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company = "Meta"
   company_url = ""
   location = "Sunnyvale, California"
-  date_start = "2024-05-26"
+  date_start = "2025-05-26"
   date_end = ""
   description = """
   * Ads ranking AI
