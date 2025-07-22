@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student of Department of Civil and Environmental Engineering
+role: Research Scientists at Meta
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Los Angeles
-  url: "http://www.ucla.edu/"
+- name: Meta
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data-driven material analysis and machine/deep learning for material science.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Civil Engineering
     institution: University of California, Los Angeles
-    year: 2024 (Expected)
+    year: 2025
   - course: M.S. in Computer Science
     institution: University of Illinois, Urbana-Champaign
     year: 2021
