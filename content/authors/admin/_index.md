@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:yuhaili@g.ucla.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:liyuhai6666@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 ---
 
-Welcome to my homepage! I received my Ph.D. from UCLA and start working at Meta as a Research Scientist in 2025. My research interests include data-driven material analysis and applied machine/deep learning in material science.          
+My name is Yuhai Li. I am currently a Research Scientist at Meta Ads Ranking AI. I received my Ph.D. from UCLA. My research interests included data-driven material analysis and applied machine/deep learning in material science.          
 
 I was born in Tianjin, China and migrated with my family to the Bay Area, California in 2012. After graduating from De Anza College, I moved to UCLA where I got both my B.S. and Ph.D. I am currently residing in Cupertino, California, with my perfect wife, Lia.
 
