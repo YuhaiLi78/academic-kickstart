@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2025-05-26"
   date_end = ""
   description = """
-  * Ads ranking AI
+  * Make loss go down
   """
 
 [[experience]]
