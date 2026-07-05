@@ -18,16 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data-driven material analysis and machine/deep learning for material science.
+bio: Make loss go down.
 
 interests:
 - Machine/Deep Learning
-- Material Science
 - Software Development
 
 education:
   courses:
-  - course: PhD in Civil Engineering
+  - course: PhD in Engineering
     institution: University of California, Los Angeles
     year: 2025
   - course: M.S. in Computer Science
@@ -45,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:liyuhai6666@gmail.com"  # For a direct email link, use "mailto:test@example.org".
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/YuhaiLi78
@@ -69,7 +68,7 @@ user_groups:
 - Researchers
 ---
 
-My name is Yuhai Li. I am currently a Research Scientist at Meta Ads Ranking AI. I received my Ph.D. from UCLA. My research interests included data-driven material analysis and applied machine/deep learning in material science.          
+My name is Yuhai Li. I am currently a Research Scientist at Meta. I received my Ph.D. from UCLA.          
 
 I was born in Tianjin, China and migrated with my family to the Bay Area, California in 2012. After graduating from De Anza College, I moved to UCLA where I got both my B.S. and Ph.D. I am currently residing in Cupertino, California, with my perfect wife, Lia.
 
